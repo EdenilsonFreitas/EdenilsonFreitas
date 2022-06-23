@@ -8,7 +8,8 @@
 
 
 
-![Edenilson GitHub stats](https://github-readme-stats.vercel.app/api?username=EdenilsonFreitas&show_icons=true&theme=dracula)
+![Edenilson GitHub stats](https://github-readme-stats.vercel.app/api?username=EdenilsonFreitas&show_icons=true&theme=dracula) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdenilsonFreitas&layout=compact&langs_count=7&theme=dracula)](https://github.com/EdenilsonFreitas/github-readme-stats)
 
 ### Tecnologia que uso no dia a dia
 
