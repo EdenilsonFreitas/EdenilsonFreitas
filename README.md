@@ -1,16 +1,26 @@
 ### Hi there 👋
+### Ola! Eu sou o Edenilson Freitas ✌️ 
 
-<!--
-**EdenilsonFreitas/EdenilsonFreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+![Edenilson GitHub stats](https://github-readme-stats.vercel.app/api?username=EdenilsonFreitas&show_icons=true&theme=dracula)
+
+## Tecnologia que uso no dia a dia
+
+
+<div style= "display: inline_block"><br/>
+<imag align="center" alt="html5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<imag align="center" alt="html5" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<imag align="center" alt="html5" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<imag align="center" alt="html5" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<imag align="center" alt="html5" src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<imag align="center" alt="html5" src= "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+
+
+</div>
