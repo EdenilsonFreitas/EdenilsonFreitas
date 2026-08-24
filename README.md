@@ -8,8 +8,8 @@
 
 
 
-![Edenilson GitHub stats](https://github-readme-stats.vercel.app/api?username=EdenilsonFreitas&show_icons=true&theme=dracula) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdenilsonFreitas&layout=compact&langs_count=7&theme=dracula)](https://github.com/EdenilsonFreitas/github-readme-stats)
+[![Edenilson GitHub stats](https://github-readme-stats.shion.dev/api?username=EdenilsonFreitas&show_icons=true&theme=dracula)](https://github.com/EdenilsonFreitas)
+[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=EdenilsonFreitas&layout=compact&langs_count=7&theme=dracula)](https://github.com/EdenilsonFreitas)
 
 ### Tecnologia que uso no dia a dia
 
